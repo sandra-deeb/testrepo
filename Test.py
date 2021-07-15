@@ -1,0 +1,7 @@
+# write in command line ( pip --version )
+# write in command line ( pip list )
+# To install a package or module, write in command line ( pip install termcolor )
+# To install a package or module, write in command line ( pip install pyfiglet )
+# To install a package or module, write in command line ( pip install pyfiglet==1.0.21 )
+# To install a package or module, write in command line ( pip install pyfiglet>=1.0.21 )
+# To upgrade pip, write in command line ( pip install pip --upgrade ) or ( pip install --user pip --upgrade )
